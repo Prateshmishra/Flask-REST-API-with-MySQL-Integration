@@ -1,0 +1,6 @@
+# Requirements
+
+```plaintext
+Flask== 3.0.0
+Flask-RESTful== 0.3.10
+mysql==0.0.3
